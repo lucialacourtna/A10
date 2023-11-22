@@ -1,0 +1,12 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+footer {
+  background-color: #ac86c1;
+  clear: both;
+  text-align: center;
+  color: white;
+  padding: 1em 0;
+}
